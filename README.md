@@ -39,7 +39,7 @@ Create a .env file in the root directory and add:
 ```bash 
     npm start
 ```
-🎉 Open http://localhost:3000 and start booking appointments!
+🎉 Open http://localhost:3000 and start booking appointments!!
 
 📌 How It Works
 👤 Patients - Sign up, browse doctors, and schedule appointments.
